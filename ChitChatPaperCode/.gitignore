@@ -1,0 +1,9 @@
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+
+# Ignora tutte le cartelle .ipynb_checkpoints ovunque nel repo
+**/.ipynb_checkpoints/
+
+llama2-checkpoint/
